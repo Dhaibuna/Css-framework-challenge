@@ -1,0 +1,22 @@
+
+//  Customised color variables
+
+$primary: #61C2D0; 
+$link: #071A2A;
+$danger: #FF0000;
+
+
+//Borders
+
+$button-border-color: $primary;
+$button-border-width: 2px;
+
+//  Customised Padding & Margin 
+
+$hero-body-padding : 3rem 3rem;
+
+
+
+@import "../node_modules/bulma/bulma.sass";  // Fait référence au dossier node_modules/Bulma/sass
+
+
