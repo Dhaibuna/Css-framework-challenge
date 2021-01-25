@@ -20,3 +20,7 @@ It's a work in progress. Still need to :
 
 3. Little bit messy out there. Factorisation would be a plus
 
+
+## Bugs known
+
+1. There is a wonderful burger menu on the full width version ... 
